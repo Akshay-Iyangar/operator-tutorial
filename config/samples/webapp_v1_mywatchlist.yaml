@@ -1,0 +1,7 @@
+apiVersion: webapp.demo.my-watchlist.io/v1
+kind: MyWatchlist
+metadata:
+  name: mywatchlist-sample
+spec:
+  # Add fields here
+  foo: bar
